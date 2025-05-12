@@ -1,4 +1,4 @@
-# lanciprojects
+# LanciProject
 Lanci is a dynamic freelancing platform designed to connect freelancers with clients in a seamless and efficient way. This project allows users to browse and post job listings, hire freelancers, and manage projects in a user-friendly environment.
 
 Key Features:
